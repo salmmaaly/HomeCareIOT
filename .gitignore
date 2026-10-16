@@ -1,1 +1,4 @@
-labeled
+# Ignore labeled data
+/labeled/
+
+# Keep fall detection datasets
