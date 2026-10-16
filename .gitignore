@@ -1,4 +1,4 @@
 # Ignore labeled data
 /labeled/
-
+/aruba_cleaned.csv/
 # Keep fall detection datasets

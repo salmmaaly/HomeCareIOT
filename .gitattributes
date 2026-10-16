@@ -1,3 +1,4 @@
 aruba_anomalies.csv filter=lfs diff=lfs merge=lfs -text
 labeled/*.csv filter=lfs diff=lfs merge=lfs -text
 labeled/**/*.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
