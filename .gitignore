@@ -4,3 +4,11 @@
 # Keep fall detection datasets
 
 aruba_cleaned.csv
+
+
+labeled/
+toyota_dataset/
+fall detection data1/
+fall detection data2/
+*.mp4
+*.json
