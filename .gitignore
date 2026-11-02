@@ -12,3 +12,5 @@ fall detection data1/
 fall detection data2/
 *.mp4
 *.json
+
+processed_skeletons/
