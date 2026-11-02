@@ -16,3 +16,12 @@ fall detection data2/
 processed_skeletons/
 
 labeled/
+
+toyota_datasets/
+pose_features/
+toyota_activity_metadata.csv
+toyota_clean_metadata.csv
+pau_notrans_rot_wc_ds_smarthomes.csv
+Cook.Cleandishes*
+routine_notebooks/runs/
+routine_notebooks/bus.jpg
