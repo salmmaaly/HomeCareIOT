@@ -4,3 +4,5 @@ labeled/**/*.csv filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 fall[[:space:]]detection[[:space:]]data1/** filter=lfs diff=lfs merge=lfs -text
 fall[[:space:]]detection[[:space:]]data2/** filter=lfs diff=lfs merge=lfs -text
+ADL[[:space:]]MERGED/** filter=lfs diff=lfs merge=lfs -text
+FALL[[:space:]]MERGED/** filter=lfs diff=lfs merge=lfs -text
