@@ -14,3 +14,5 @@ fall detection data2/
 *.json
 
 processed_skeletons/
+
+labeled/
